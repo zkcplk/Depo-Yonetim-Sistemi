@@ -12,7 +12,7 @@ Depo 6 adet bloktan oluşmaktadır. Her blok, 5 raftan ve her raf 20 bölmeden o
 Depoya üretici firmalardan sürekli olarak ürünler gelmekte ve ilgili ürünler depodan, ilgili mağazalara gönderilmek üzere yola çıkarılmaktadır. Program, bu giriş/çıkış hareketlerini depoda çalışan personeller eliyle gerçekleştirmektedir. 
 
 # Login
-Programı kullananlara ilk görünecek arayüzdür. Kullanıcı adı ve şifre olmadan sisteme girmek mümkün değildir. Kullanıcı adı ve şifre bilgileri girilerek, “Giriş Yap” butonuna basılır. Root şifresi default olarak 101'dir.
+Programı kullananlara ilk görünecek arayüzdür. Kullanıcı adı ve şifre olmadan sisteme girmek mümkün değildir. Kullanıcı adı ve şifre bilgileri girilerek, “Giriş Yap” butonuna basılır. Varsayılan yönetici kullanıcı adı **root** ve şifresi **101**'dir.
 
 ![Login paneli](https://github.com/zkcplk/Depo-Yonetim-Sistemi/blob/main/images/Login.png)
 
