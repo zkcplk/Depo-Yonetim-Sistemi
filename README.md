@@ -38,3 +38,4 @@ bulunur. Her bir sekmede ayrı bir işlem gerçekleştirilir ve tüm işlemler i
 
 Daha fazla ayrıntı için [analiz](https://github.com/zkcplk/Depo-Yonetim-Sistemi/blob/main/analiz.pdf) dosyasını inceleyebilirsiniz.
 
+**Zeki ÇIPLAK**
