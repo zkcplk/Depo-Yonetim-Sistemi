@@ -36,5 +36,5 @@ bulunur. Her bir sekmede ayrı bir işlem gerçekleştirilir ve tüm işlemler i
 # Depodan Ürün Çıkış Paneli
 ![Arama Paneli - Ürün Sayım Sekmesi](https://github.com/zkcplk/Depo-Yonetim-Sistemi/blob/main/images/UrunGidisi.png)
 
-Daha fazla ayrıntı için analiz.pdf dosyasını inceleyebilirsiniz.
+Daha fazla ayrıntı için [analiz.pdf](https://github.com/zkcplk/Depo-Yonetim-Sistemi/blob/main/analiz.pdf) dosyasını inceleyebilirsiniz.
 
