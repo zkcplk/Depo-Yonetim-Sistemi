@@ -7,3 +7,34 @@ Depo, tüm blokları; bloklar, rafları; raflar, bölmeleri; bölmeler, kolileri
 
 ![Depo Planı](https://github.com/zkcplk/Depo-Yonetim-Sistemi/blob/main/images/DepoTemsiliResim.png)
 
+Depo 6 adet bloktan oluşmaktadır. Her blok, 5 raftan ve her raf 20 bölmeden oluşmaktadır. Her bir bölmeye 10 adet eşit büyüklükte standart koli yerleştirilebilmektedir. Deponun toplam koli kapasitesi, 6 x 5 x 20 x 10 = 6000 kolidir.
+
+Depoya üretici firmalardan sürekli olarak ürünler gelmekte ve ilgili ürünler depodan, ilgili mağazalara gönderilmek üzere yola çıkarılmaktadır. Program, bu giriş/çıkış hareketlerini depoda çalışan personeller eliyle gerçekleştirmektedir. 
+
+# Login
+Programı kullananlara ilk görünecek arayüzdür. Kullanıcı adı ve şifre olmadan sisteme girmek mümkün değildir. Kullanıcı adı ve şifre bilgileri girilerek, “Giriş Yap” butonuna basılır. Root şifresi default olarak 101'dir.
+
+![Login paneli](https://github.com/zkcplk/Depo-Yonetim-Sistemi/blob/main/images/Login.png)
+
+İki tip kullanıcı bulunur. Bunlar Root (Yönetici) ve Personel kullanıcılarıdır. Sisteme giriş yapıldıktan sonra, giriş yapanın türüne göre farklı arayüzler gösterilir.
+
+# Admin Paneli
+![Admin (Yönetici) Paneli](https://github.com/zkcplk/Depo-Yonetim-Sistemi/blob/main/images/AdminPanel.png)
+
+# Personel Paneli
+![Personel Paneli](https://github.com/zkcplk/Depo-Yonetim-Sistemi/blob/main/images/PersonelPanel.png)
+
+# Arama Paneli
+Tüm kullanıcıların ortak olarak erişim sağlayabildiği arayüzlerden biri de Arama Paneli'dir. Kullanıcılar çeşitli kriterlere göre arama yapabilir. Toplam 6 adet sekme
+bulunur. Her bir sekmede ayrı bir işlem gerçekleştirilir ve tüm işlemler için PDF çıktısı alınabilir.
+
+![Arama Paneli - Ürün Sayım Sekmesi](https://github.com/zkcplk/Depo-Yonetim-Sistemi/blob/main/images/AramaPanelUrunSayim.png)
+
+# Depoya Ürün Giriş Paneli
+![Arama Paneli - Ürün Sayım Sekmesi](https://github.com/zkcplk/Depo-Yonetim-Sistemi/blob/main/images/UrunGelisi.png)
+
+# Depodan Ürün Çıkış Paneli
+![Arama Paneli - Ürün Sayım Sekmesi](https://github.com/zkcplk/Depo-Yonetim-Sistemi/blob/main/images/UrunGidisi.png)
+
+Daha fazla ayrıntı için analiz.pdf dosyasını inceleyebilirsiniz.
+
